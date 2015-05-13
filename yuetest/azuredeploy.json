@@ -401,7 +401,7 @@
                     "fileUris": [
                         "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/cluster-on-centos/prepareDisks.sh"
                     ],
-                    "commandToExecute": "sh python-proxy-install-ubuntu.sh"
+                    "commandToExecute": "sh prepareDisks.sh"
                 }
             }
         }
