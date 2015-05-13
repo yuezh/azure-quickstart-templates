@@ -27,7 +27,7 @@
         "value": "myVNET"
     },
     "vmSize": {
-        "value": "Standard_D14"
+        "value": "Standard_D13"
     },
     "vmName" : {
       "value" : "myVM"
