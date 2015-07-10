@@ -1,0 +1,17 @@
+{
+    "storageAccountName": {
+        "value": "uniqueStorageAccount"
+    },
+    "vmName": {
+        "value": "uniqueVMName"
+    },
+    "adminUsername": {
+        "value": "userName"
+    },
+    "adminPassword": {
+        "value": "password"
+    },
+    "dnsNameForPublicIP": {
+        "value": "uniqueDNS"
+    }
+}
